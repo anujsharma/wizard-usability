@@ -1,5 +1,6 @@
 // JavaScript Document
 /*ToolTip Logic*/
+/*Testing Real time Git Edits*/
 this.tooltip = function(){
 	
 	xOffset = 10;
